@@ -1,0 +1,5 @@
+# python bitcode
+*.py[cod]
+*.gz
+*.csv
+*.lock
